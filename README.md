@@ -21,5 +21,4 @@ Java 8 est connu pour ses Lambda, mais il recèle des nouveautés pour le monde 
 # Back to the future
 
 Java et Star7
-[http://assiste.com.free.fr/m/img/java_02.jpg]
- 
+![Star7](http://assiste.com.free.fr/m/img/java_02.jpg "Star7") 
