@@ -3,6 +3,8 @@
 
 # Java 8 et l'IOT
 Les nouveauté Java 8 pour l'Internet des Objets
+
+{author}
 						
 Charles de MAGNEVAL
 
