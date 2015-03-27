@@ -1,7 +1,10 @@
 ---
+layout: master
+title: Java8 IOT
 ---
 
 # PresJava8IOT
+
 ## Presentation des fonctionnalitées Java8 pour l'internet des Objets
 
 # Java 8 et l'IOT
