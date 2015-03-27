@@ -14,12 +14,12 @@
         <h2><a href="http://github.com/magneval">par Charles de Magneval</a></h2>
       </header>
       <nav>
-				    <header>nav {{site}}
+				    <header>nav
 				    </header>
 				<ul>
 				  {% for slide in site.slides %}
 				    <li>
-				      <a href="{{ post.url }}">{{ slide.title }}</a>
+				      <a href="{{ slide.url }}">{{ slide.title }}</a>
 				    </li>
 				  {% endfor %}
 				</ul>
