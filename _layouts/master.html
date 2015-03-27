@@ -9,11 +9,19 @@
     <link rel="alternate" type="application/atom+xml" href="/atom.xml" />
   </head>
   <body>
-    <div id='wrapper'>
-      <div id='header'>
+      <header>
         <h1><a href="/">{{ page.title }}</a></h1>
         <h2><a href="http://github.com/magneval">par Charles de Magneval</a></h2>
-      </div>
+      </header>
+      <nav>
+				<ul>
+				  {% for post in site.posts %}
+				    <li>
+				      <a href="{{ post.url }}">{{ post.title }}</a>
+				    </li>
+				  {% endfor %}
+				</ul>
+      </nav>
       <div id='content'>
         {{ content }}
         <div class='clearfix'></div>
