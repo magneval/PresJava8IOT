@@ -33,3 +33,17 @@ Java 8 est connu pour ses Lambda, mais il recèle des nouveautés pour le monde 
 
 ![Serieux](http://i2.cdscdn.com/pdt2/3/0/8/1/700x700/auc5050293108308/rw/affiche-du-film-retour-vers-le.jpg "Soyons Serieux") 
 
+* montre
+* lunette
+* voiture
+* ...
+* Java ?
+
+# JME8
+
+RIP Nokia !
+Java + SmartPhone = Android
+
+donc
+
+JME8 = IOT
