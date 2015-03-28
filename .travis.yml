@@ -1,2 +1,5 @@
+# inside a repository with .travis.yml
+travis-lint
+
 language: ruby
 script: "bundle exec jekyll build"
