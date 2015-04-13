@@ -1,10 +1,11 @@
 Platform Choices
+
 ||Java ME Embedded|Java SE for Embedded|
 |Java APIs|CLDC 8, MEEP 8, Device IO APIs,
 Additional Optional APIs|Full featured Java SE 8 API support|
 |Min Memory requirements: RAM
-+ Flash|128KB RAM / 1MB Flash – for the
-smallest profile|Total: 10.4MB (Headless) – for the smallest
++ Flash|128KB RAM / 1MB Flash â€“ for the
+smallest profile|Total: 10.4MB (Headless) â€“ for the smallest
 profile|
 |Min MHz|30MHz|200MHz|
 |Target Segments|Small embedded (resource-constrained)
