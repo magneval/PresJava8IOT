@@ -1,6 +1,7 @@
 Platform Choices
-
+__________
 | |Java ME Embedded|Java SE for Embedded|
+__________
 |Java APIs|CLDC 8, MEEP 8, Device IO APIs,
 Additional Optional APIs|Full featured Java SE 8 API support|
 |Min Memory requirements: RAM
@@ -23,3 +24,4 @@ on ARM9)
 * Custom ports available through Java
 Engineering Services|OS: Linux, Windows
 Processors: ARM v5/6/7, PowerPC, X86|
+------
