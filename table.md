@@ -1,6 +1,6 @@
 Platform Choices
 
-||Java ME Embedded|Java SE for Embedded|
+| |Java ME Embedded|Java SE for Embedded|
 |Java APIs|CLDC 8, MEEP 8, Device IO APIs,
 Additional Optional APIs|Full featured Java SE 8 API support|
 |Min Memory requirements: RAM
