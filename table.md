@@ -1,4 +1,5 @@
-=== Platform Choices ===
+Platform Choices
+======
 
 | | Java ME Embedded | Java SE for Embedded |
 | ------------- | ------------- | ------------- 
