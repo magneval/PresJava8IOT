@@ -121,7 +121,7 @@ javax.security.cert
 
 # Java SE8 Profile x
 
-démo OSGI
+![démo OSGI](https://youtu.be/TCaBno_Euqk)
 
 # Les plate-formes Java Embedded
 
