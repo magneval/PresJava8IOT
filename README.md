@@ -82,7 +82,9 @@ démo OSGI
 # JME
 
 RIP Nokia !
+
 Symbian est &#x1f507; aphone
+
 Java + SmartPhone = Android
 
 # JME8
