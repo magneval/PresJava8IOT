@@ -96,6 +96,7 @@ Version Freescale FRDM-K64F
 + alignement Java SE8/Java ME8
     - Stream
     - Lambda
+    - Event/Listener
 + Taille réduite :
     128 KB RAM 
     1 MB of Flash/ROM
