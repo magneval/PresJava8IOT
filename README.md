@@ -20,21 +20,21 @@ Java 8 est connu pour ses Lambda, mais il recèle des nouveautés pour le monde 
 
 * histoire
 * Java SE
-// * Java Embeded
+* Java Embeded
 * Java ME
 * L'avenir
 
 # Back to the future
 
-![oops](http://i2.cdscdn.com/pdt2/3/0/8/1/700x700/auc5050293108308/rw/affiche-du-film-retour-vers-le.jpg "Java ?") 
+![oops](images/BackToTheFuture.jpg "Java ?") 
 
 # Back to the future
 
-![Star7](http://assiste.com.free.fr/m/img/java_02.jpg "Java et Star7") 
+![Star7](images/Star7.jpg "Java et Star7") 
 
 # Back to the future
 
-![Sérieux](http://i2.cdscdn.com/pdt2/3/0/8/1/700x700/auc5050293108308/rw/affiche-du-film-retour-vers-le.jpg "Soyons sérieux") 
+![Sérieux](images/BackToTheFuture.jpg "Soyons sérieux") 
 
 * montre
 * lunette
@@ -56,6 +56,15 @@ Jusqu'à Java 7
 Mais où sont les objets connectés ?
 Sous Android ?
 
+# Les plate-formes Java
+
+Avec Java 8
+* Java Card pour la carte à puce
+* Java ME
+* Java Embeded
+* Java SE pour le Desktop
+* Java EE pour les serveurs
+
 # Java Standard Edition
 
 Pas adapté aux objets connectés
@@ -75,7 +84,11 @@ Il existe 3 profils :
 
 démo OSGI
 
-// # JSE Embedded
+# Les plate-formes Java Embedded
+
+![Java Embedded](images/JavaEmbedded.png "Java Embedded") 
+
+# JSE Embedded
 
 // TODO
 
@@ -85,12 +98,14 @@ RIP Nokia !
 
 Symbian est &#x1f507; aphone
 
-Java + SmartPhone = Android
+Java + SmartPhone = Android ?
 
 # JME8
 
 JME8 = IOT
+
 Version Raspberry PI
+
 Version Freescale FRDM-K64F
 
 # Avantages Java ME8
@@ -99,6 +114,7 @@ Version Freescale FRDM-K64F
     - Stream
     - Lambda
     - Event/Listener
+    - Les Enums
 + Taille réduite :
     128 KB RAM 
     1 MB of Flash/ROM
@@ -119,6 +135,16 @@ Gestion
     + 3GPP (3rd Generation Partnership Project)
     + CDMA (Code division multiple access)
     + WiFi (Wireless Fidelity)
+
+# Java Card
+
+L'enfant pauvre, l'oublié
+
+Assure la sécurité des Objets connectées
+
+Possibilité de mettre des cartes a puces soudées dans les objets connectés
+
+# Java dans le Cloud
 
 
 # Conclusion
