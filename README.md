@@ -169,7 +169,8 @@ Version Freescale FRDM-K64F
 
 # Avantages Java ME8
 
-Gestion 
+Gestion
+
 * des accès :
     + GPIOs
     + Analog to Digital Converter (ADC)
