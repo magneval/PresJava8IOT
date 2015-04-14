@@ -19,9 +19,9 @@ Java 8 est connu pour ses Lambda, mais il recèle des nouveautés pour le monde 
 # Plan
 
 * histoire
-* Java ME
 * Java SE
-* Java Embeded
+// * Java Embeded
+* Java ME
 * L'avenir
 
 # Back to the future
@@ -40,13 +40,66 @@ Java 8 est connu pour ses Lambda, mais il recèle des nouveautés pour le monde 
 * lunette
 * voiture
 * ...
-* Java ?
+et Java dans tous ça ?
+
+# Les plateformes Java
+
+Jusqu'à Java 7
+* Java Card pour la carte à puce
+* Java ME (MidP, CLDC, CDC) pour le mobile
+* Personnal Java pour le SmartPhone (hors Android et IOS) 
+* Java SE pour le Desktop
+* Java EE pour les serveurs
+
+# Les plateformes Java
+
+Mais où sont les objets connectés ?
+Sous Androïd ?
+
+# Java Standard Edition
+
+Pas adapté aux objets connectés
+nécessite un OS, généralement une couche graphique.
+Lourd (plusieur Mo)
+
+# Java SE8
+
+pas encore Jigsaw
+Mais l'intruction de la notion de profils, qui permet un sous découpage de la VM
+Il existe 3 profils :
+1 Version minimum
+1 Version 1 + 
+1 Version 2 + 
+
+# Java SE8 Profile x
+
+démo OSGI
+
+// # JSE Embedded
+
+// TODO
+
+# JME
+
+RIP Nokia !
+Symbian est aphone
+Java + SmartPhone = Android
 
 # JME8
 
-RIP Nokia !
-Java + SmartPhone = Android
-
-donc
-
 JME8 = IOT
+Version Raspberry PI
+Version XXX
+
+# Java SE8
+
+Gestion 
+* des GPIOs
+* du port MSIO SPI
+* XXX
+
+
+# Conclusion
+A quand une JVM sur Arduino
+Quid de l'avenir ?
+Java 9
