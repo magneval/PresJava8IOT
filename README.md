@@ -151,7 +151,6 @@ Java + SmartPhone = Android ?
 JME8 = IOT
 
 ![Version Raspberry PI](images/raspberryPiA+.jpg "Version Raspberry PI") 
-
 ![Version Freescale FRDM-K64F](images/Freescale FRDM-K64F.jpg "Version Freescale FRDM-K64F") 
 
 # JME8
