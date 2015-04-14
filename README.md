@@ -14,7 +14,11 @@ Charles de MAGNEVAL
 
 # présentation des fonctionnalités Java8 pour l'internet des Objets
 
-Java 8 est connu pour ses Lambda, mais il recèle des nouveautés pour le monde de l'embarqué, et particulièrement pour l'internet des objets.
+Java 8 est connu pour ses Lambda,
+
+mais il recèle des nouveautés pour le monde de l'embarqué,
+
+et particulièrement pour l'internet des objets.
 
 # Plan
 
@@ -45,27 +49,14 @@ et Java dans tous ça ?
 # Les plate-formes Java
 
 Jusqu'à Java 7
+
 * Java Card pour la carte à puce
 * Java ME (MidP, CLDC, CDC) pour le mobile
 * Personnal Java pour le SmartPhone (hors Android et IOS) 
 * Java SE pour le Desktop
 * Java EE pour les serveurs
 
-# Les plate-formes Java
-
-Mais où sont les objets connectés ?
-Sous Android ?
-
-# Les plate-formes Java
-
-Avec Java 8
-* Java Card pour la carte à puce
-* Java ME
-* Java Embeded
-* Java SE pour le Desktop
-* Java EE pour les serveurs
-
-# Java Standard Edition
+# Java SE8
 
 Pas adapté aux objets connectés
 nécessite un OS, généralement une couche graphique.
@@ -74,8 +65,11 @@ Lourd (plusieurs Mo)
 # Java SE8
 
 pas encore Jigsaw
+
 Mais l'instruction de la notion de profils, qui permet un sous découpage de la VM
+
 Il existe 3 profils :
+
 1 Version minimum
 1 Version 1 + 
 1 Version 2 + 
