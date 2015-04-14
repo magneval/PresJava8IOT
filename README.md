@@ -119,9 +119,9 @@ javax.security.auth.spi
 javax.security.auth.x500
 javax.security.cert
 
-# Java SE8 Profile x
+# Java SE8 Compact Profil 1
 
-![démo OSGI](https://youtu.be/TCaBno_Euqk)
+[démo OSGI](https://youtu.be/TCaBno_Euqk)
 
 # Les plate-formes Java Embedded
 
@@ -164,8 +164,8 @@ Version Freescale FRDM-K64F
     - Event/Listener
     - Les Enums
 + Taille réduite :
-    128 KB RAM 
-    1 MB of Flash/ROM
+    - 128 KB RAM 
+    - 1 MB de Flash/ROM
 
 # Avantages Java ME8
 
@@ -174,7 +174,7 @@ Gestion
     + GPIOs
     + Analog to Digital Converter (ADC)
     + Digital to Analog Converter (DAC)
-    + 
+    + ...
 * des ports de communications :
     + SPI (MSIO)
     + I2C
@@ -196,8 +196,6 @@ Gestion
 
 # Conclusion
 
-A quand une JVM sur Arduino
-
 Quid de l'avenir ?
 
 Java 9
@@ -206,4 +204,6 @@ Java 9
 * Precompilateur
 * Value Object
 * ...
+
+A quand du Java sur Arduino
 
