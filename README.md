@@ -56,23 +56,68 @@ Jusqu'à Java 7
 * Java SE pour le Desktop
 * Java EE pour les serveurs
 
-# Java SE8
+# Java SE8 pour l'IOT ?
 
 Pas adapté aux objets connectés
+
 nécessite un OS, généralement une couche graphique.
-Lourd (plusieurs Mo)
+
+Lourd (140 Mo)
 
 # Java SE8
 
-pas encore Jigsaw
+Pas encore Jigsaw
 
 Mais l'instruction de la notion de profils, qui permet un sous découpage de la VM
 
-Il existe 3 profils :
+![Il existe 3 profils :](images/CompactProfiles.png "Il existe 3 profils :") 
 
-1 Version minimum
-1 Version 1 + 
-1 Version 2 + 
+# Java SE8 compact profils
+
+compact1                     compact2                    compact3
+--------------------------   -----------------------     --------------------------
+java.io                      java.rmi                    java.lang.instrument
+java.lang                    java.rmi.activation         java.lang.management
+java.lang.annotation         java.rmi.registry           java.security.acl
+java.lang.invoke             java.rmi.server             java.util.prefs
+java.lang.ref                java.sql                    javax.annotation.processing
+java.lang.reflect            javax.rmi.ssl               javax.lang.model
+java.math                    javax.sql                   javax.lang.model.element
+java.net                     javax.transaction           javax.lang.model.type
+java.nio                     javax.transaction.xa        javax.lang.model.util
+java.nio.channels            javax.xml                   javax.management
+java.nio.channels.spi        javax.xml.datatype          javax.management.loading
+java.nio.charset             javax.xml.namespace         javax.management.modelbean
+java.nio.charset.spi         javax.xml.parsers           javax.management.monitor
+java.nio.file                javax.xml.stream            javax.management.openmbean
+java.nio.file.attribute      javax.xml.stream.events     javax.management.relation
+java.nio.file.spi            javax.xml.stream.util       javax.management.remote
+java.security                javax.xml.transform         javax.management.remote.rmi
+java.security.cert           javax.xml.transform.dom     javax.management.timer
+java.security.interfaces     javax.xml.transform.sax     javax.naming
+java.security.spec           javax.xml.transform.stax    javax.naming.directory
+java.text                    javax.xml.transform.stream  javax.naming.event
+java.text.spi                javax.xml.validation        javax.naming.ldap
+java.util                    javax.xml.xpath             javax.naming.spi
+java.util.concurrent         org.w3c.dom                 javax.script
+java.util.concurrent.atomic  org.w3c.dom.bootstrap       javax.security.auth.kerberos
+java.util.concurrent.locks   org.w3c.dom.events          javax.security.sasl
+java.util.jar                org.w3c.dom.ls              javax.sql.rowset
+java.util.logging            org.xml.sax                 javax.sql.rowset.serial
+java.util.regex              org.xml.sax.ext             javax.sql.rowset.spi
+java.util.spi                org.xml.sax.helpers         javax.tools
+java.util.zip                                            javax.xml.crypto
+javax.crypto                                             javax.xml.crypto.dom
+javax.crypto.interfaces                                  javax.xml.crypto.dsig
+javax.crypto.spec                                        javax.xml.crypto.dsig.dom
+javax.net                                                javax.xml.crypto.dsig.keyinfo
+javax.net.ssl                                            javax.xml.crypto.dsig.spec
+javax.security.auth                                      org.ieft.jgss
+javax.security.auth.callback
+javax.security.auth.login
+javax.security.auth.spi
+javax.security.auth.x500
+javax.security.cert
 
 # Java SE8 Profile x
 
@@ -84,7 +129,14 @@ démo OSGI
 
 # JSE Embedded
 
-// TODO
+| | Java ME Embedded | Java SE for Embedded |
+| ------------- | ------------- | ------------- 
+|Java APIs|CLDC 8, MEEP 8, Device IO APIs, Additional Optional APIs|Full featured Java SE 8 API support|
+|Min Memory requirements: RAM + Flash|128KB RAM / 1MB Flash – for the smallest profile|Total: 10.4MB (Headless) – for the smallest profile|
+|Min MHz|30MHz|200MHz|
+|Target Segments|Small embedded (resource-constrained) devices|Mid to High embedded devices|
+|Sample Devices/Use|Cases Mobile/Feature Handsets, Digital Pen, Sensors|Industrial automation/equipments, Highend Network Appliances/Printing Devices, Medial, Aerospace and Defence, Smart Grid/ Kiosks|
+|Available Ports|* ARM Cortex-M3/M4 on KEIL MCBSTM32F200 * ARM11 on Raspberry Pi * Qualcomm M2M product family (based on ARM9) * Custom ports available through Java Engineering Services|OS: Linux, Windows Processors: ARM v5/6/7, PowerPC, X86|
 
 # JME
 
@@ -101,6 +153,8 @@ JME8 = IOT
 Version Raspberry PI
 
 Version Freescale FRDM-K64F
+
+![JavaME Platforme](images/JavaME Platforme.jpeg "JavaME Platforme") 
 
 # Avantages Java ME8
 
@@ -132,16 +186,24 @@ Gestion
 
 # Java Card
 
-L'enfant pauvre, l'oublié
-
-Assure la sécurité des Objets connectées
-
-Possibilité de mettre des cartes a puces soudées dans les objets connectés
+* Assure la sécurité des Objets connectées
+* Possibilité de mettre des cartes à puces soudées dans les objets connectés
 
 # Java dans le Cloud
 
+* Big data
+* Machine Learning
 
 # Conclusion
+
 A quand une JVM sur Arduino
+
 Quid de l'avenir ?
+
 Java 9
+
+* Jigsaw
+* Precompilateur
+* Value Object
+* ...
+
