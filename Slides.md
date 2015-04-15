@@ -3,7 +3,7 @@ layout: master
 title: Java8 IOT
 ---
 
-# Java8 et l'IOT
+# Java 8 et l'IOT
 ## présentation des fonctionnalités Java8 pour l'internet des Objets
 
 Les nouveauté Java 8 pour l'Internet des Objets
