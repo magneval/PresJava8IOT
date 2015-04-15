@@ -15,6 +15,10 @@ li {
     color:blue;
 }
 
+li li {
+    color: green;
+}
+
 img {
     max-height: 80%;
     max-width: 80%;
