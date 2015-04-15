@@ -31,9 +31,3 @@ img {
     max-height: 80%;
     max-width: 80%;
 }
-
-#passion {
-    position: absolute;
-    clip: rect(0px,0px,188px,180px);
-   /* clip: rect(0px,0px,940px,180px); */
-}
