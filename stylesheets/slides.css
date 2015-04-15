@@ -1,6 +1,9 @@
 h1 {
     page-break-before: always;
     margin-top: 100%;
+    width: 100%;
+    background-color: blue;
+    color: white;
 }
 
 img {
