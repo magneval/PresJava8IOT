@@ -8,15 +8,23 @@ h1 {
 }
 
 p {
-    font-size: larger;
+    padding-top: 1 em;
+    padding-bottom: 1 em;
+    font-size: x-large;
+    font-weight: bolder;
 }
 
 li {
-    font-size: large;
+    padding-top: 0.5 em;
+    padding-bottom: 0.5 em;
+    font-size: larger;
+    font-weight: bold;
 }
 
 li li {
-    font-size: inherit;
+    padding-top: 0 em;
+    font-size: large;
+    font-weight: normal;
 }
 
 img {
