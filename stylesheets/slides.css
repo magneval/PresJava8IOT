@@ -1,0 +1,9 @@
+h1 {
+    page-break-before: always;
+    margin-top: 100%;
+}
+
+img {
+    max-height: 80%;
+    max-width: 80%;
+}
