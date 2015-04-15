@@ -1,13 +1,39 @@
 h1 {
     page-break-before: always;
-    margin-top: 100%;
+    margin-top: 640px;
     width: 100%;
     background-color: blue;
     color: white;
     padding: 1em;
 }
 
+p {
+    padding-top: 1 em;
+    padding-bottom: 1 em;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+li {
+    padding-top: 0.5 em;
+    padding-bottom: 0.5 em;
+    font-size: larger;
+    font-weight: bold;
+}
+
+li li {
+    padding-top: 0 em;
+    font-size: large;
+    font-weight: normal;
+}
+
 img {
     max-height: 80%;
     max-width: 80%;
+}
+
+#passion {
+    position: absolute;
+    clip: rect(0px,0px,188px,180px);
+   /* clip: rect(0px,0px,940px,180px); */
 }
