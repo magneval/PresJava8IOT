@@ -7,6 +7,10 @@ h1 {
     padding: 1em;
 }
 
+p {
+    color: red;
+}
+
 img {
     max-height: 80%;
     max-width: 80%;
