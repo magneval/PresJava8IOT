@@ -185,6 +185,10 @@ Gestion
     + 3GPP (3rd Generation Partnership Project)
     + CDMA (Code division multiple access)
     + WiFi (Wireless Fidelity)
+* New APIs for RESTful programming
+    + JSON API
+    + Async HTTP API
+    + OAuth 2.0 AP
 
 # Java Card
 
