@@ -8,15 +8,15 @@ h1 {
 }
 
 p {
-    color: red;
+    font-size: larger;
 }
 
 li {
-    color:blue;
+    font-size: large;
 }
 
 li li {
-    color: green;
+    font-size: inherit;
 }
 
 img {
