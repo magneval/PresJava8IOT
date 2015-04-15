@@ -3,11 +3,9 @@ layout: master
 title: Java8 IOT
 ---
 
-# PresJava8IOT
-
+# Java8 et l'IOT
 ## présentation des fonctionnalités Java8 pour l'internet des Objets
 
-# Java 8 et l'IOT
 Les nouveauté Java 8 pour l'Internet des Objets
 						
 Charles de MAGNEVAL
