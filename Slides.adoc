@@ -86,29 +86,29 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 | java.security               | javax.xml.transform        | javax.management.remote.rmi
 | java.security.cert          | javax.xml.transform.dom    | javax.management.timer
 | java.security.interfaces    | javax.xml.transform.sax    | javax.naming
-| java.security.spec          | javax.xml.transform.stax   | javax.naming.directory|
-| java.text                   | javax.xml.transform.stream | javax.naming.event|
-| java.text.spi               | javax.xml.validation       | javax.naming.ldap|
-| java.util                   | javax.xml.xpath            | javax.naming.spi|
-| java.util.concurrent        | org.w3c.dom                | javax.script|
-| java.util.concurrent.atomic | org.w3c.dom.bootstrap      | javax.security.auth.kerberos|
-| java.util.concurrent.locks  | org.w3c.dom.events         | javax.security.sasl|
-| java.util.jar               | org.w3c.dom.ls             | javax.sql.rowset|
-| java.util.logging           | org.xml.sax                | javax.sql.rowset.serial|
-| java.util.regex             | org.xml.sax.ext            | javax.sql.rowset.spi|
-| java.util.spi               | org.xml.sax.helpers        | javax.tools|
-| java.util.zip               |                            | javax.xml.crypto|
-| javax.crypto                |                            | javax.xml.crypto.dom|
-| javax.crypto.interfaces     |                            | javax.xml.crypto.dsig|
-| javax.crypto.spec           |                            | javax.xml.crypto.dsig.dom|
-| javax.net                   |                            | javax.xml.crypto.dsig.keyinfo|
-| javax.net.ssl               |                            | javax.xml.crypto.dsig.spec|
-| javax.security.auth         |                            | org.ieft.jgss|
-| javax.security.auth.callback|||
-| javax.security.auth.login|||
-| javax.security.auth.spi|||
-| javax.security.auth.x500|||
-| javax.security.cert|||
+| java.security.spec          | javax.xml.transform.stax   | javax.naming.directory
+| java.text                   | javax.xml.transform.stream | javax.naming.event
+| java.text.spi               | javax.xml.validation       | javax.naming.ldap
+| java.util                   | javax.xml.xpath            | javax.naming.spi
+| java.util.concurrent        | org.w3c.dom                | javax.script
+| java.util.concurrent.atomic | org.w3c.dom.bootstrap      | javax.security.auth.kerberos
+| java.util.concurrent.locks  | org.w3c.dom.events         | javax.security.sasl
+| java.util.jar               | org.w3c.dom.ls             | javax.sql.rowset
+| java.util.logging           | org.xml.sax                | javax.sql.rowset.serial
+| java.util.regex             | org.xml.sax.ext            | javax.sql.rowset.spi
+| java.util.spi               | org.xml.sax.helpers        | javax.tools
+| java.util.zip               |                            | javax.xml.crypto
+| javax.crypto                |                            | javax.xml.crypto.dom
+| javax.crypto.interfaces     |                            | javax.xml.crypto.dsig
+| javax.crypto.spec           |                            | javax.xml.crypto.dsig.dom
+| javax.net                   |                            | javax.xml.crypto.dsig.keyinfo
+| javax.net.ssl               |                            | javax.xml.crypto.dsig.spec
+| javax.security.auth         |                            | org.ieft.jgss
+| javax.security.auth.callback||
+| javax.security.auth.login||
+| javax.security.auth.spi||
+| javax.security.auth.x500||
+| javax.security.cert||
 |=======
 
 # Java SE8 Compact Profil 1
