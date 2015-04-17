@@ -66,27 +66,26 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 # Java SE8 compact profils
 
 |=======
-| compact1                    | compact2                   | compact3|
-| --------------------------  | -----------------------    | --------------------------|
-| java.io                     | java.rmi                   | java.lang.instrument|
-| java.lang                   | java.rmi.activation        | java.lang.management|
-| java.lang.annotation        | java.rmi.registry          | java.security.acl|
-| java.lang.invoke            | java.rmi.server            | java.util.prefs|
-| java.lang.ref               | java.sql                   | javax.annotation.processing|
-| java.lang.reflect           | javax.rmi.ssl              | javax.lang.model|
-| java.math                   | javax.sql                  | javax.lang.model.element|
-| java.net                    | javax.transaction          | javax.lang.model.type|
-| java.nio                    | javax.transaction.xa       | javax.lang.model.util|
-| java.nio.channels           | javax.xml                  | javax.management|
-| java.nio.channels.spi       | javax.xml.datatype         | javax.management.loading|
-| java.nio.charset            | javax.xml.namespace        | javax.management.modelbean|
-| java.nio.charset.spi        | javax.xml.parsers          | javax.management.monitor|
-| java.nio.file               | javax.xml.stream           | javax.management.openmbean|
-| java.nio.file.attribute     | javax.xml.stream.events    | javax.management.relation|
-| java.nio.file.spi           | javax.xml.stream.util      | javax.management.remote|
-| java.security               | javax.xml.transform        | javax.management.remote.rmi|
-| java.security.cert          | javax.xml.transform.dom    | javax.management.timer|
-| java.security.interfaces    | javax.xml.transform.sax    | javax.naming|
+| compact1                    | compact2                   | compact3
+| java.io                     | java.rmi                   | java.lang.instrument
+| java.lang                   | java.rmi.activation        | java.lang.management
+| java.lang.annotation        | java.rmi.registry          | java.security.acl
+| java.lang.invoke            | java.rmi.server            | java.util.prefs
+| java.lang.ref               | java.sql                   | javax.annotation.processing
+| java.lang.reflect           | javax.rmi.ssl              | javax.lang.model
+| java.math                   | javax.sql                  | javax.lang.model.element
+| java.net                    | javax.transaction          | javax.lang.model.type
+| java.nio                    | javax.transaction.xa       | javax.lang.model.util
+| java.nio.channels           | javax.xml                  | javax.management
+| java.nio.channels.spi       | javax.xml.datatype         | javax.management.loading
+| java.nio.charset            | javax.xml.namespace        | javax.management.modelbean
+| java.nio.charset.spi        | javax.xml.parsers          | javax.management.monitor
+| java.nio.file               | javax.xml.stream           | javax.management.openmbean
+| java.nio.file.attribute     | javax.xml.stream.events    | javax.management.relation
+| java.nio.file.spi           | javax.xml.stream.util      | javax.management.remote
+| java.security               | javax.xml.transform        | javax.management.remote.rmi
+| java.security.cert          | javax.xml.transform.dom    | javax.management.timer
+| java.security.interfaces    | javax.xml.transform.sax    | javax.naming
 | java.security.spec          | javax.xml.transform.stax   | javax.naming.directory|
 | java.text                   | javax.xml.transform.stream | javax.naming.event|
 | java.text.spi               | javax.xml.validation       | javax.naming.ldap|
