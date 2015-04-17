@@ -65,6 +65,7 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 
 # Java SE8 compact profils
 
+|=======
 | compact1                    | compact2                   | compact3|
 | --------------------------  | -----------------------    | --------------------------|
 | java.io                     | java.rmi                   | java.lang.instrument|
@@ -109,6 +110,7 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 | javax.security.auth.spi|||
 | javax.security.auth.x500|||
 | javax.security.cert|||
+|=======
 
 # Java SE8 Compact Profil 1
 
