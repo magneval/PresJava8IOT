@@ -1,7 +1,7 @@
----
-layout: master
-title: Java 8 et l'IOT
----
+// ---
+// layout: master
+// title: Java 8 et l'IOT
+// ---
 
 # présentation des fonctionnalités Java8 pour l'internet des Objets
 
