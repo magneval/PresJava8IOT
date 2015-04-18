@@ -22,16 +22,19 @@ et particulièrement pour l'internet des objets.
 == Back to the future
 
 ![oops](images/BackToTheFuture.jpg "Java ?") 
+
 image::images/BackToTheFuture.jpg[Java ?]
 
 == Back to the future
 
 ![Star7](images/Star7.jpg "Java et Star7") 
+
 image::images/Star7.jpg[Java et Star7]
 
 == Back to the future
 
 ![Sérieux](images/BackToTheFuture.jpg "Soyons sérieux") 
+
 image::images/BackToTheFuture.jpg[Soyons sérieux]
 
 * montre
@@ -118,6 +121,7 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 == Java SE8 Compact Profil 1
 
 [démo OSGI](https://youtu.be/TCaBno_Euqk)
+
 video::TCaBno_Euqk[youtube]
 
 == Les plate-formes Java Embedded
