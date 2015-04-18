@@ -115,6 +115,7 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 == Java SE8 Compact Profil 1
 
 [démo OSGI](https://youtu.be/TCaBno_Euqk)
+video::TCaBno_Euqk[youtube]
 
 == Les plate-formes Java Embedded
 
