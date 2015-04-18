@@ -22,14 +22,17 @@ et particulièrement pour l'internet des objets.
 == Back to the future
 
 ![oops](images/BackToTheFuture.jpg "Java ?") 
+image::images/BackToTheFuture.jpg[Java ?]
 
 == Back to the future
 
 ![Star7](images/Star7.jpg "Java et Star7") 
+image::images/Star7.jpg[Java et Star7]
 
 == Back to the future
 
 ![Sérieux](images/BackToTheFuture.jpg "Soyons sérieux") 
+image::images/BackToTheFuture.jpg[Soyons sérieux]
 
 * montre
 * lunette
