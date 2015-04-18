@@ -130,6 +130,7 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 |Target Segments|Small embedded (resource-constrained) devices|Mid to High embedded devices
 |Sample Devices/Use|Cases Mobile/Feature Handsets, Digital Pen, Sensors|Industrial automation/equipments, Highend Network Appliances/Printing Devices, Medial, Aerospace and Defence, Smart Grid/ Kiosks
 |Available Ports|* ARM Cortex-M3/M4 on KEIL MCBSTM32F200 * ARM11 on Raspberry Pi * Qualcomm M2M product family (based on ARM9) * Custom ports available through Java Engineering Services|OS: Linux, Windows Processors: ARM v5/6/7, PowerPC, X86
+|============
 
 == JME
 
