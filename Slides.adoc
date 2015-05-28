@@ -130,6 +130,22 @@ video::TCaBno_Euqk[youtube]
 
 == JSE Embedded
 
+[cols="2,2,5a"]
+|===
+|Firefox
+|Browser
+|Mozilla Firefox is an open-source web browser.
+
+It's designed for:
+
+* standards compliance
+* performance
+* portability
+
+http://getfirefox.com[Get Firefox]!
+|===
+
+
 |=========
 | | Java ME Embedded | Java SE for Embedded
 |Java APIs|CLDC 8, MEEP 8, Device IO APIs, Additional Optional APIs|Full featured Java SE 8 API support
@@ -155,8 +171,8 @@ Processors:
 * PowerPC,
 * X86
 
- 
-|=============
+|=========
+
 
 //
 
