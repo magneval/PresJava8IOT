@@ -130,20 +130,6 @@ video::TCaBno_Euqk[youtube]
 
 == JSE Embedded
 
-[cols="2,2,5a"]
-|===
-|Firefox
-|Browser
-|Mozilla Firefox is an open-source web browser.
-
-It's designed for:
-
-* standards compliance
-* performance
-* portability
-
-http://getfirefox.com[Get Firefox]!
-|===
 
 
 |=========
