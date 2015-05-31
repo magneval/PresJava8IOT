@@ -72,7 +72,7 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 == Java SE8 compact profils
 
 [options="header,footer"]
-|=======
+|===
 | compact1                    | compact2                   | compact3
 | java.io                     | java.rmi                   | java.lang.instrument
 | java.lang                   | java.rmi.activation        | java.lang.management
@@ -116,7 +116,7 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 | javax.security.auth.spi||
 | javax.security.auth.x500||
 | javax.security.cert||
-|=======
+|===
 
 == Java SE8 Compact Profil 1
 
@@ -132,7 +132,7 @@ video::TCaBno_Euqk[youtube]
 
 
 
-|=========
+|===
 | | Java ME Embedded | Java SE for Embedded
 |Java APIs|CLDC 8, MEEP 8, Device IO APIs, Additional Optional APIs|Full featured Java SE 8 API support
 |Min Memory requirements: RAM + Flash|128KB RAM / 1MB Flash – for the smallest profile|Total: 10.4MB (Headless) – for the smallest profile
@@ -157,7 +157,7 @@ Processors:
 * PowerPC,
 * X86
 
-|=========
+|===
 
 
 //
