@@ -141,14 +141,6 @@ video::TCaBno_Euqk[youtube]
 |Sample Devices/Use|Cases Mobile/Feature Handsets, Digital Pen, Sensors|Industrial automation/equipments, Highend Network Appliances/Printing Devices, Medial, Aerospace and Defence, Smart Grid/ Kiosks
 |Available Ports|
 
-It's designed for:
-
-* standards compliance
-* performance
-* portability
-
-http://getfirefox.com[Get Firefox]!
-
 * ARM Cortex-M3/M4 on KEIL MCBSTM32F200
 * ARM11 on Raspberry Pi
 * Qualcomm M2M product family (based on ARM9)
