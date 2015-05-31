@@ -151,17 +151,11 @@ Custom ports available through Java Engineering Services
 
 |OS:
 
-Linux,
-
-Windows
+Linux, Windows
 
 Processors: 
 
-ARM v5/6/7,
-
-PowerPC,
-
-X86
+ARM v5/6/7, PowerPC, X86
 
 |===
 
