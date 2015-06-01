@@ -141,9 +141,7 @@ video::TCaBno_Euqk[youtube]
 |Sample Devices/Use|Cases Mobile/Feature Handsets, Digital Pen, Sensors|Industrial automation/equipments, Highend Network Appliances/Printing Devices, Medial, Aerospace and Defence, Smart Grid/ Kiosks
 |Firefox
 |Browser
-|Mozilla Firefox is an open-source web browser.
-
-It's designed for:
+|It's designed for:
 
 * standards compliance
 * performance
@@ -161,11 +159,13 @@ Qualcomm M2M product family (based on ARM9)
 Custom ports available through Java Engineering Services
 
 |OS:
-* Linux,
+
+* Linux
 * Windows
 
-Processors: 
-*ARM v5/6/7,
+Processors:
+
+* ARM v5/6/7,
 * PowerPC,
 * X86
 
