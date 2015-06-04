@@ -72,6 +72,8 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 == Java SE8 compact profils
 
 [options="header,footer"]
+
+[cols="1a,1a,1a"]
 |===
 | compact1                    | compact2                   | compact3
 | java.io                     | java.rmi                   | java.lang.instrument
