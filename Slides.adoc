@@ -252,6 +252,7 @@ Java + SmartPhone = Android ?
 JME8 = IOT
 
 ![Version Raspberry PI](images/raspberryPiA+.jpg "Version Raspberry PI") 
+
 ![Version Freescale FRDM-K64F](images/Freescale FRDM-K64F.jpg "Version Freescale FRDM-K64F") 
 
 == JME8
@@ -260,12 +261,12 @@ JME8 = IOT
 
 == Avantages Java ME8
 
-+ alignement Java SE8/Java ME8
+* alignement Java SE8/Java ME8
     - Stream
     - Lambda
     - Event/Listener
     - Les Enums
-+ Taille réduite :
+* Taille réduite :
     - 128 KB RAM 
     - 1 MB de Flash/ROM
 
@@ -274,22 +275,22 @@ JME8 = IOT
 Gestion
 
 * des accès :
-    + GPIOs
-    + Analog to Digital Converter (ADC)
-    + Digital to Analog Converter (DAC)
-    + ...
+** GPIOs
+** Analog to Digital Converter (ADC)
+** Digital to Analog Converter (DAC)
+** + ...
 * des ports de communications :
-    + SPI (MSIO)
-    + I2C
-    + UART
+** SPI (MSIO)
+** I2C
+** UART
 * Connectivité :
-    + 3GPP (3rd Generation Partnership Project)
-    + CDMA (Code division multiple access)
-    + WiFi (Wireless Fidelity)
+** 3GPP (3rd Generation Partnership Project)
+** CDMA (Code division multiple access)
+** WiFi (Wireless Fidelity)
 * New APIs for RESTful programming
-    + JSON API
-    + Async HTTP API
-    + OAuth 2.0 AP
+** JSON API
+** Async HTTP API
+** OAuth 2.0 AP
 
 == Java Card
 
