@@ -88,16 +88,17 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 * activation
 * registry
 * server
-        | java.lang.management
-| java.math        |           | java.security.acl
-| java.net            |             | java.util.prefs
-|                |                    | javax.annotation.processing
-|            | javax.rmi.ssl              | javax.lang.model
+| javax.lang.model
 
 * element
 * type
 * util
-|                    | javax.sql                  | 
+
+| java.math        |           | java.security.acl
+| java.net            |             | java.util.prefs
+|                |                    | javax.annotation.processing
+|            | javax.rmi.ssl              | 
+|                    | javax.sql                  | java.lang.management
 |                     | javax.transaction          | 
 | java.nio                    | javax.transaction.xa       | 
 | * channels           | javax.xml
