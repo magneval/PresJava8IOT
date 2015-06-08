@@ -156,7 +156,14 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 * bootstrap
 * events
 * ls
-| javax.script
+| javax.xml.crypto
+
+* crypto.dom
+* crypto.dsig
+* crypto.dsig.dom
+* crypto.dsig.keyinfo
+* crypto.dsig.spec
+
 |  |       | javax.security.auth.kerberos
 |   |          | javax.security.sasl
 |                |              | javax.sql.rowset
@@ -167,13 +174,6 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 * ext
 * helpers
 | javax.tools
-|                |                            | javax.xml.crypto
-
-* crypto.dom
-* crypto.dsig
-* crypto.dsig.dom
-* crypto.dsig.keyinfo
-* crypto.dsig.spec
 | javax.crypto
 
 * interfaces
@@ -181,7 +181,7 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 |                            | org.ieft.jgss
 | javax.net
 
-* ssl               |                            | 
+* ssl               |                            | javax.script
 | javax.security.auth
 
 * auth.callback
