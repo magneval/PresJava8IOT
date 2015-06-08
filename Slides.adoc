@@ -82,11 +82,17 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 * registry
 * server
 | java.lang.instrument
-| java.lang                   |         | java.lang.management
-| * annotation        |           | java.security.acl
-| * invoke            |             | java.util.prefs
-| * ref               | java.sql                   | javax.annotation.processing
-| * reflect           | javax.rmi.ssl              | javax.lang.model
+| java.lang
+
+* annotation
+* invoke
+* ref
+* reflect
+|         | java.lang.management
+|         |           | java.security.acl
+|             |             | java.util.prefs
+|                | java.sql                   | javax.annotation.processing
+|            | javax.rmi.ssl              | javax.lang.model
 
 * element
 * type
