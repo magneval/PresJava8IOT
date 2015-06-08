@@ -77,41 +77,41 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 |===
 | compact1                    | compact2                   | compact3
 | java.io                     | java.rmi                   | java.lang.instrument
-| java.lang                   | java.rmi.activation        | java.lang.management
-| * annotation        | java.rmi.registry          | java.security.acl
-| * invoke            | java.rmi.server            | java.util.prefs
+| java.lang                   | * activation        | java.lang.management
+| * annotation        | * registry          | java.security.acl
+| * invoke            | * server            | java.util.prefs
 | * ref               | java.sql                   | javax.annotation.processing
 | * reflect           | javax.rmi.ssl              | javax.lang.model
 | java.math                   | javax.sql                  | javax.lang.model.element
 | java.net                    | javax.transaction          | javax.lang.model.type
 | java.nio                    | javax.transaction.xa       | javax.lang.model.util
 | * channels           | javax.xml                  | javax.management
-| * channels.spi       | javax.xml.datatype         | javax.management.loading
-| * charset            | javax.xml.namespace        | javax.management.modelbean
-| * charset.spi        | javax.xml.parsers          | javax.management.monitor
-| * file               | javax.xml.stream           | javax.management.openmbean
-| * file.attribute     | javax.xml.stream.events    | javax.management.relation
-| * file.spi           | javax.xml.stream.util      | javax.management.remote
-| java.security               | javax.xml.transform        | javax.management.remote.rmi
-| * cert          | javax.xml.transform.dom    | javax.management.timer
-| * interfaces    | javax.xml.transform.sax    | javax.naming
-| * spec          | javax.xml.transform.stax   | javax.naming.directory
-| java.text                   | javax.xml.transform.stream | javax.naming.event
-| * spi               | javax.xml.validation       | javax.naming.ldap
-| java.util                   | javax.xml.xpath            | javax.naming.spi
+| * channels.spi       | * datatype         | javax.management.loading
+| * charset            | * namespace        | javax.management.modelbean
+| * charset.spi        | * parsers          | javax.management.monitor
+| * file               | * stream           | javax.management.openmbean
+| * file.attribute     | * stream.events    | javax.management.relation
+| * file.spi           | * stream.util      | javax.management.remote
+| java.security               | * transform        | javax.management.remote.rmi
+| * cert          | * transform.dom    | javax.management.timer
+| * interfaces    | * transform.sax    | javax.naming
+| * spec          | * transform.stax   | javax.naming.directory
+| java.text                   | * transform.stream | javax.naming.event
+| * spi               | * validation       | javax.naming.ldap
+| java.util                   | * xpath            | javax.naming.spi
 | * concurrent        | org.w3c.dom                | javax.script
-| * concurrent.atomic | org.w3c.dom.bootstrap      | javax.security.auth.kerberos
-| * concurrent.locks  | org.w3c.dom.events         | javax.security.sasl
-| * jar               | org.w3c.dom.ls             | javax.sql.rowset
+| * concurrent.atomic | * bootstrap      | javax.security.auth.kerberos
+| * concurrent.locks  | * events         | javax.security.sasl
+| * jar               | * ls             | javax.sql.rowset
 | * logging           | org.xml.sax                | javax.sql.rowset.serial
-| * regex             | org.xml.sax.ext            | javax.sql.rowset.spi
-| * spi               | org.xml.sax.helpers        | javax.tools
+| * regex             | * ext            | javax.sql.rowset.spi
+| * spi               | * helpers        | javax.tools
 | * zip               |                            | javax.xml.crypto
-| javax.crypto                |                            | javax.xml.crypto.dom
-| * interfaces     |                            | javax.xml.crypto.dsig
-| * spec           |                            | javax.xml.crypto.dsig.dom
-| javax.net                   |                            | javax.xml.crypto.dsig.keyinfo
-| * ssl               |                            | javax.xml.crypto.dsig.spec
+| javax.crypto                |                            | * crypto.dom
+| * interfaces     |                            | * crypto.dsig
+| * spec           |                            | * crypto.dsig.dom
+| javax.net                   |                            | * crypto.dsig.keyinfo
+| * ssl               |                            | * crypto.dsig.spec
 | javax.security.auth         |                            | org.ieft.jgss
 | * auth.callback
 * auth.login
