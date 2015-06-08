@@ -76,10 +76,15 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 [cols="1a,1a,1a"]
 |===
 | compact1                    | compact2                   | compact3
-| java.io                     | java.rmi                   | java.lang.instrument
-| java.lang                   | * activation        | java.lang.management
-| * annotation        | * registry          | java.security.acl
-| * invoke            | * server            | java.util.prefs
+| java.io                     | java.rmi
+
+* activation
+* registry
+* server
+| java.lang.instrument
+| java.lang                   |         | java.lang.management
+| * annotation        |           | java.security.acl
+| * invoke            |             | java.util.prefs
 | * ref               | java.sql                   | javax.annotation.processing
 | * reflect           | javax.rmi.ssl              | javax.lang.model
 
