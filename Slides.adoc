@@ -97,10 +97,8 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 | java.math        | javax.rmi.ssl          | java.security.acl
 | java.net            | javax.sql            | java.util.prefs
 |                | javax.transaction                   | javax.annotation.processing
-|            |               | 
-|                    |                   | java.lang.management
-|                     |           | 
-| java.nio                    | javax.transaction.xa       | 
+|                    | javax.transaction.xa                  | java.lang.management
+| java.nio                    |        | 
 | * channels           | javax.xml
 
 * datatype
@@ -126,15 +124,16 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 * remote
 * remote.rmi
 * timer
-| * channels.spi       |          | 
-| * charset            |         | 
-| * charset.spi        |           | 
-| * file               |            | 
-| * file.attribute     |     | 
-| * file.spi           |       | 
-| java.security               |         | 
-| * cert          |     | 
-| * interfaces    |     | javax.naming
+| * channels.spi
+* charset
+* charset.spi
+* file
+* file.attribute
+* file.spi           |       | 
+| java.security
+
+ * cert
+ * interfaces    |     | javax.naming
 | * spec          |    | * directory
 | java.text                   |  | * event
 | * spi               |        | * ldap
