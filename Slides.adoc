@@ -250,12 +250,12 @@ JME8 = IOT
 image::images/raspberryPiA+.jpg[Version Raspberry PI]
 
 .Version Freescale FRDM-K64F
-image::"images/Freescale FRDM-K64F.jpg"[Version Freescale FRDM-K64F]
+image::images/Freescale{sp}FRDM-K64F.jpg[Version Freescale FRDM-K64F]
 
 == JME8
 
 .JavaME Platforme
-image::images/JavaME Platforme.jpeg[JavaME Platforme]
+image::images/JavaME{sp}Platforme.jpeg[JavaME Platforme]
 
 == Avantages Java ME8
 
