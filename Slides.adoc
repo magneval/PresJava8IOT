@@ -89,16 +89,16 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 * ref
 * reflect
 |         | java.lang.management
-|         |           | java.security.acl
-|             |             | java.util.prefs
+| java.math        |           | java.security.acl
+| java.net            |             | java.util.prefs
 |                | java.sql                   | javax.annotation.processing
 |            | javax.rmi.ssl              | javax.lang.model
 
 * element
 * type
 * util
-| java.math                   | javax.sql                  | 
-| java.net                    | javax.transaction          | 
+|                    | javax.sql                  | 
+|                     | javax.transaction          | 
 | java.nio                    | javax.transaction.xa       | 
 | * channels           | javax.xml
 
