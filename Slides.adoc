@@ -292,6 +292,7 @@ Gestion
 
 == Java Card
 
+image::images/JavaCard.gif[Java Card]
 * Assure la sécurité des Objets connectées
 * Possibilité de mettre des cartes à puces soudées dans les objets connectés
 
