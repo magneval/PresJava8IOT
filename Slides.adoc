@@ -78,8 +78,8 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 | compact1                    | compact2                   | compact3
 | java.io                     | java.rmi                   | java.lang.instrument
 | java.lang                   | java.rmi.activation        | java.lang.management
-| java.lang.annotation        | java.rmi.registry          | java.security.acl
-| java.lang.invoke            | java.rmi.server            | java.util.prefs
+| * annotation        | java.rmi.registry          | java.security.acl
+| * invoke            | java.rmi.server            | java.util.prefs
 | java.lang.ref               | java.sql                   | javax.annotation.processing
 | java.lang.reflect           | javax.rmi.ssl              | javax.lang.model
 | java.math                   | javax.sql                  | javax.lang.model.element
