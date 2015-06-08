@@ -89,7 +89,22 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 | java.math                   | javax.sql                  | 
 | java.net                    | javax.transaction          | 
 | java.nio                    | javax.transaction.xa       | 
-| * channels           | javax.xml                  | javax.management
+| * channels           | javax.xml
+
+* datatype
+* namespace
+* parsers
+* stream
+* stream.events
+* stream.util
+* transform
+* transform.dom
+* transform.sax
+* transform.stax
+* transform.stream
+* validation
+* xpath
+| javax.management
 
 * loading
 * modelbean
@@ -99,19 +114,19 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 * remote
 * remote.rmi
 * timer
-| * channels.spi       | * datatype         | 
-| * charset            | * namespace        | 
-| * charset.spi        | * parsers          | 
-| * file               | * stream           | 
-| * file.attribute     | * stream.events    | 
-| * file.spi           | * stream.util      | 
-| java.security               | * transform        | 
-| * cert          | * transform.dom    | 
-| * interfaces    | * transform.sax    | javax.naming
-| * spec          | * transform.stax   | * directory
-| java.text                   | * transform.stream | * event
-| * spi               | * validation       | * ldap
-| java.util                   | * xpath            | * spi
+| * channels.spi       |          | 
+| * charset            |         | 
+| * charset.spi        |           | 
+| * file               |            | 
+| * file.attribute     |     | 
+| * file.spi           |       | 
+| java.security               |         | 
+| * cert          |     | 
+| * interfaces    |     | javax.naming
+| * spec          |    | * directory
+| java.text                   |  | * event
+| * spi               |        | * ldap
+| java.util                   |             | * spi
 | * concurrent        | org.w3c.dom                | javax.script
 | * concurrent.atomic | * bootstrap      | javax.security.auth.kerberos
 | * concurrent.locks  | * events         | javax.security.sasl
