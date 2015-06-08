@@ -151,16 +151,22 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 * regex
 * spi
 * zip
-| org.w3c.dom                | javax.script
-|  | * bootstrap      | javax.security.auth.kerberos
-|   | * events         | javax.security.sasl
-|                | * ls             | javax.sql.rowset
+| org.w3c.dom
+
+* bootstrap
+* events
+* ls
+| javax.script
+|  |       | javax.security.auth.kerberos
+|   |          | javax.security.sasl
+|                |              | javax.sql.rowset
 
 * serial
 * spi
-|            | org.xml.sax                | javax.tools
-|              | * ext            | 
-|                | * helpers        | 
+|            | org.xml.sax
+* ext
+* helpers
+| javax.tools
 |                |                            | javax.xml.crypto
 
 * crypto.dom
@@ -173,8 +179,6 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 * interfaces
 * spec
 |                            | org.ieft.jgss
-|      |                            | 
-|            |                            | 
 | javax.net
 
 * ssl               |                            | 
