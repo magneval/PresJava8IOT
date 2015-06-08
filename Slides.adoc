@@ -61,7 +61,7 @@ Pas encore Jigsaw
 
 Mais l'instruction de la notion de profils, qui permet un sous découpage de la VM
 
-.Il existe 3 profils :
+.Il existe 3 profils
 image::images/CompactProfiles.png[Il existe 3 profils]
 
 == Java SE8 compact profils
@@ -188,13 +188,13 @@ image::images/CompactProfiles.png[Il existe 3 profils]
 
 == Java SE8 Compact Profil 1
 
-[démo OSGI](https://youtu.be/TCaBno_Euqk)
-
+.démo OSGI
 video::TCaBno_Euqk[youtube]
 
 == Les plate-formes Java Embedded
 
-![Java Embedded](images/JavaEmbedded.png "Java Embedded") 
+.Java Embedded
+image::images/JavaEmbedded.png[Java Embedded]
 
 == JSE Embedded
 
@@ -246,13 +246,16 @@ Java + SmartPhone = Android ?
 
 JME8 = IOT
 
-![Version Raspberry PI](images/raspberryPiA+.jpg "Version Raspberry PI") 
+.Version Raspberry PI
+image::images/raspberryPiA+.jpg[Version Raspberry PI]
 
-![Version Freescale FRDM-K64F](images/Freescale FRDM-K64F.jpg "Version Freescale FRDM-K64F") 
+.Version Freescale FRDM-K64F
+image::images/Freescale FRDM-K64F.jpg[Version Freescale FRDM-K64F]
 
 == JME8
 
-![JavaME Platforme](images/JavaME Platforme.jpeg "JavaME Platforme") 
+.JavaME Platforme
+image::images/JavaME Platforme.jpeg[JavaME Platforme]
 
 == Avantages Java ME8
 
