@@ -82,30 +82,46 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 | * invoke            | * server            | java.util.prefs
 | * ref               | java.sql                   | javax.annotation.processing
 | * reflect           | javax.rmi.ssl              | javax.lang.model
-| java.math                   | javax.sql                  | javax.lang.model.element
-| java.net                    | javax.transaction          | javax.lang.model.type
-| java.nio                    | javax.transaction.xa       | javax.lang.model.util
+
+* element
+* type
+* util
+| java.math                   | javax.sql                  | 
+| java.net                    | javax.transaction          | 
+| java.nio                    | javax.transaction.xa       | 
 | * channels           | javax.xml                  | javax.management
-| * channels.spi       | * datatype         | javax.management.loading
-| * charset            | * namespace        | javax.management.modelbean
-| * charset.spi        | * parsers          | javax.management.monitor
-| * file               | * stream           | javax.management.openmbean
-| * file.attribute     | * stream.events    | javax.management.relation
-| * file.spi           | * stream.util      | javax.management.remote
-| java.security               | * transform        | javax.management.remote.rmi
-| * cert          | * transform.dom    | javax.management.timer
+
+* loading
+* modelbean
+* monitor
+* openmbean
+* relation
+* remote
+* remote.rmi
+* timer
+| * channels.spi       | * datatype         | 
+| * charset            | * namespace        | 
+| * charset.spi        | * parsers          | 
+| * file               | * stream           | 
+| * file.attribute     | * stream.events    | 
+| * file.spi           | * stream.util      | 
+| java.security               | * transform        | 
+| * cert          | * transform.dom    | 
 | * interfaces    | * transform.sax    | javax.naming
-| * spec          | * transform.stax   | javax.naming.directory
-| java.text                   | * transform.stream | javax.naming.event
-| * spi               | * validation       | javax.naming.ldap
-| java.util                   | * xpath            | javax.naming.spi
+| * spec          | * transform.stax   | * directory
+| java.text                   | * transform.stream | * event
+| * spi               | * validation       | * ldap
+| java.util                   | * xpath            | * spi
 | * concurrent        | org.w3c.dom                | javax.script
 | * concurrent.atomic | * bootstrap      | javax.security.auth.kerberos
 | * concurrent.locks  | * events         | javax.security.sasl
 | * jar               | * ls             | javax.sql.rowset
-| * logging           | org.xml.sax                | javax.sql.rowset.serial
-| * regex             | * ext            | javax.sql.rowset.spi
-| * spi               | * helpers        | javax.tools
+
+* serial
+* spi
+| * logging           | org.xml.sax                | javax.tools
+| * regex             | * ext            | 
+| * spi               | * helpers        | 
 | * zip               |                            | javax.xml.crypto
 
 * crypto.dom
