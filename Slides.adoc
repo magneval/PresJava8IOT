@@ -107,12 +107,17 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 | * regex             | * ext            | javax.sql.rowset.spi
 | * spi               | * helpers        | javax.tools
 | * zip               |                            | javax.xml.crypto
-| javax.crypto                |                            | * crypto.dom
-| * interfaces     |                            | * crypto.dsig
-| * spec           |                            | * crypto.dsig.dom
-| javax.net                   |                            | * crypto.dsig.keyinfo
-| * ssl               |                            | * crypto.dsig.spec
-| javax.security.auth         |                            | org.ieft.jgss
+* crypto.dom
+* crypto.dsig
+* crypto.dsig.dom
+* crypto.dsig.keyinfo
+* crypto.dsig.spec
+| javax.crypto                |                            | org.ieft.jgss
+| * interfaces     |                            | 
+| * spec           |                            | 
+| javax.net                   |                            | 
+| * ssl               |                            | 
+| javax.security.auth         |                            | 
 | * auth.callback
 * auth.login
 * auth.spi
