@@ -113,11 +113,11 @@ Mais l'instruction de la notion de profils, qui permet un sous découpage de la 
 | javax.net                   |                            | javax.xml.crypto.dsig.keyinfo
 | * ssl               |                            | javax.xml.crypto.dsig.spec
 | javax.security.auth         |                            | org.ieft.jgss
-| * auth.callback||
-| * auth.login||
-| * auth.spi||
-| * auth.x500||
-| * cert||
+| * auth.callback
+* auth.login
+* auth.spi
+* auth.x500
+* cert||
 |===
 
 == Java SE8 Compact Profil 1
