@@ -42,7 +42,7 @@ et Java dans tous ça ?
 
 Jusqu'à Java 7
 
-== Java Card pour la carte à puce
+* Java Card pour la carte à puce
 * Java ME (MidP, CLDC, CDC) pour le mobile
 * Personnal Java pour le SmartPhone (hors Android et IOS) 
 * Java SE pour le Desktop
